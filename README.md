@@ -2,7 +2,7 @@
 <p align="center">
   <h3 align="center">Termux For Programming</h3>
   <p align="center">
-    Convert your Android device into a ProgrammingBeast (XD) 
+    better than using Vscode on Android lol.
     <br/>
     <br/>
     <a href="https://github.com//Termux For Programming">View Demo</a>

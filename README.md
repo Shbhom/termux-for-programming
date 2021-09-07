@@ -2,7 +2,7 @@
 <p align="center">
   <h3 align="center">Termux For Programming</h3>
   <p align="center">
-    better than using Vscode on Android lol.
+    Better than using Vscode on android lol.
     <br/>
     <br/>
     <a href="https://github.com//Termux For Programming">View Demo</a>

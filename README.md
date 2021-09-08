@@ -5,10 +5,8 @@
     Better than using Vscode on android lol.
     <br/>
     <br/>
-    <a href="https://github.com//Termux For Programming">View Demo</a>
-    .
     <a href="https://github.com//Termux For Programming/issues">Report Bug</a>
-    .
+    |
     <a href="https://github.com//Termux For Programming/issues">Request Feature</a>
   </p>
 </p>
@@ -25,11 +23,8 @@
 
 ## About The Project
 
-*work in progress*
-
-## Getting Started
-
-*work in progress*
+Using this project you can use your android for programming more effeciently than using vscode or any other editor available for android.
+you just need some basic knowledge terminal commands,some vim fundamentals and ,basic tmux commands. If you don't know don't worry I have provided some video resources for you.
 
 ### Prerequisites
 
@@ -39,6 +34,12 @@
    * At least 200 MB of disk space.
 
 * Physical Keyboard
+
+* Basic commandline knowledge (<a href="https://www.youtube.com/watch?v=W4gE8k2RE_s">some help</a>)
+
+* Vim fundamentals (<a href="https://youtube.com/playlist?list=PL3cu45aM3C2DJVGfCjSBB1yD9YkC7q27-">some more help</a>)
+
+* Tmux basics (<a href="https://www.youtube.com/watch?v=NZO8KjNbwJk">some more more help</a>)
 
 * Perfect Eyesight to watch on small screen (Bruh)
 
@@ -75,6 +76,36 @@ git clone https://github.com/tech-bloke/termux-for-programming.git
 6. **Some Additional Settings**
 
 - In the settings disable 'Soft Keyboard Enable' and enable 'Soft Keyboard Only If No Hardware' options. 
+
+## Getting Started
+
+* After cloning git repository and installing the install script(coming soon), open init.vim and run the command stated below, to install all the vim plugins.
+```sh
+ :PlugInstall
+```
+
+ * Run the below command to remove the default text and the extra keys from your screen so that you can get most out of your screen
+
+ ```sh
+ termux-reload-settings
+```
+
+* If you wanna use zsh instead of using bash, run the command
+ ```sh
+ chsh -s (the path of zsh)
+```
+  * you can see zsh path using
+```sh
+ which zsh
+ ```
+   * BTW zsh takes some time when you'll open any terminal session. and the if you are good with bash just remove the zsh files from the folder
+ * For tmux you don't have to do anything, the leader keys aren't ctrl+b ,it's ctrl+space. 
+
+ * BTW you can just read the config files and you understand everything and if you don't understand something just Google it (that what I did in beginning as **it's my ninja way** )
+ 
+     <h4 align="left"> Naruto Theme Playing </h4>
+    <a href="https://www.freeiconspng.com/img/14693" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/naruto-icon-16.png" width="100" alt="Png Simple Naruto" /></a>
+* Then just enjoy your destroying your eyes by looking on such a small screen.
 
 ## Authors
 

@@ -105,7 +105,7 @@ git clone https://github.com/tech-bloke/termux-for-programming.git
  
      <h4 align="left"> Naruto Theme Playing </h4>
     <a href="https://www.freeiconspng.com/img/14693" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/naruto-icon-16.png" width="100" alt="Png Simple Naruto" /></a>
-* Then just enjoy your destroying your eyes by looking on such a small screen.
+* Then just enjoy destroying your eyes by looking at your small screen.
 
 ## Authors
 

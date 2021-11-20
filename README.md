@@ -101,7 +101,7 @@ git clone https://github.com/tech-bloke/termux-for-programming.git
    * BTW zsh takes some time when you'll open any terminal session. and the if you are good with bash just remove the zsh files from the folder
  * For tmux you don't have to do anything, the leader keys aren't ctrl+b ,it's ctrl+space. 
 
- * BTW you can just read the config files and you understand everything and if you don't understand something just Google it (that what I did in beginning as **it's my ninja way** )
+ * BTW you can just read the config files and you'll understand everything and if you don't understand something just Google it (that what I did in beginning as **it's my ninja way** )
  
      <h4 align="left"> Naruto Theme Playing </h4>
     <a href="https://www.freeiconspng.com/img/14693" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/naruto-icon-16.png" width="100" alt="Png Simple Naruto" /></a>

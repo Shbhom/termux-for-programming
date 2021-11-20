@@ -109,5 +109,5 @@ git clone https://github.com/tech-bloke/termux-for-programming.git
 
 ## Authors
 
-*  **[Shubhom Srivastava](https://github.com/tech-bloke)**
+*  **[Shubhom Srivastava](https://github.com/shbhom)**
 *  **[Shivom Srivastava](https://github.com/Guchii)**

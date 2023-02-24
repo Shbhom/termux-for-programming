@@ -65,7 +65,7 @@ apt install curl git neovim tmux
 4. **Clone the repo**
 
 ```sh
-git clone https://github.com/tech-bloke/termux-for-programming.git
+git clone https://github.com/shbhom/termux-for-programming.git
 ```
 
 5. **Styling Termux**

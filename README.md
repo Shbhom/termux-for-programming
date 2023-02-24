@@ -104,7 +104,7 @@ git clone https://github.com/shbhom/termux-for-programming.git
  * BTW you can just read the config files and you'll understand everything and if you don't understand something just Google it (that what I did in beginning as **it's my ninja way** )
  
      <h4 align="left"> Naruto Theme Playing </h4>
-    <a href="https://www.freeiconspng.com/img/14693" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/naruto-icon-16.png" width="100" alt="Png Simple Naruto" /></a>
+     <img src="https://www.freeiconspng.com/uploads/naruto-icon-16.png" width="350" alt="Png Simple Naruto" width="50px" height="200px"/>
 * Then just enjoy destroying your eyes by looking at your small screen.
 
 ## Authors
